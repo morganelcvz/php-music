@@ -1,0 +1,42 @@
+[
+	{
+		"music_id" : 4,
+		"music_name" : "Billie Jean",
+		"genres" : "Jazz, Pop, Country, Électro, Classique, Hip-Hop, Reggae, Metal, Blues, Rock"
+	},
+	{
+		"music_id" : 2,
+		"music_name" : "Bohemian Rhapsody",
+		"genres" : "Reggae, Country, Jazz, Hip-Hop, Pop, Classique, Blues, Électro, Rock, Metal"
+	},
+	{
+		"music_id" : 3,
+		"music_name" : "Hotel California",
+		"genres" : "Pop, Hip-Hop, Reggae, Classique, Électro, Blues, Rock, Metal, Country, Jazz"
+	},
+	{
+		"music_id" : 6,
+		"music_name" : "Imagine",
+		"genres" : "Hip-Hop, Pop, Metal, Blues, Classique, Reggae, Électro, Jazz, Rock, Country"
+	},
+	{
+		"music_id" : 7,
+		"music_name" : "No Woman, No Cry",
+		"genres" : "Rock, Électro, Blues, Metal, Pop, Jazz, Country, Classique, Reggae, Hip-Hop"
+	},
+	{
+		"music_id" : 1,
+		"music_name" : "Shape of You",
+		"genres" : "Jazz, Reggae, Hip-Hop, Rock, Blues, Pop, Metal, Classique, Électro, Country"
+	},
+	{
+		"music_id" : 5,
+		"music_name" : "Smells Like Teen Spirit",
+		"genres" : "Jazz, Reggae, Rock, Blues, Hip-Hop, Pop, Classique, Metal, Électro, Country"
+	},
+	{
+		"music_id" : 5,
+		"music_name" : "Smells Like Teen Spirit",
+		"genres" : "Électro, Pop, Blues, Jazz, Rock, Metal, Hip-Hop, Country, Reggae, Classique"
+	}
+]
